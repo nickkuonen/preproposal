@@ -1,0 +1,16 @@
+Nick Kuonen-2024
+Title- Python Blackjack
+
+Challenges: I struggled with implementing splitting and doubling your bet. I had code that could split my hand if I got 2 of the 
+same number, but I was unable to find a way that I could correctly keep track of the balance. For example, if I split my hand and
+had 1 winning hand, but the other lost, I would still win money when I should break even. I could not get past this balance problem. 
+I also had a similar problem with doubling my bet. I could not find a way to take out another bet after doing the initial wager and
+had trouble with getting the wrong balance. In order to make the program work correctly, I had to scrap these ideas.
+
+Learned: For the most part, I used what I learned in the class and did not incorporate a lot of new knowledge. I mainly relied on 
+the Pig Lab we did and used similar techniques, that really helped me. I learned what the continue function does and used it in my 
+program to keep allowing hit if the value is below 21. I never used the continue function before until now. 
+
+Enjoyed: I enjoyed using the knowledge from previous classes we had. I feel like I used most of what we learned over the year, functions, 
+if and elif statements, boolean operators, lists, and iterations. Overall, I am pretty proud of what I accomplished despite not meeting 
+what I originally wanted to do.
